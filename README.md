@@ -1,4 +1,4 @@
-# Random Quote Machine
+# Markdown Previewer
 
 > This project is build for FreeCodeCamp Front End projects using React
 
